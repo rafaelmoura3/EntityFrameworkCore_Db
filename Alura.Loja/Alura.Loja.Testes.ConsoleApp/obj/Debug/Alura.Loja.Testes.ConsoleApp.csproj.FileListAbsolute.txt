@@ -1,0 +1,41 @@
+c:\users\caleum\documents\visual studio 2017\Projects\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Alura.Loja.Testes.ConsoleApp.exe.config
+c:\users\caleum\documents\visual studio 2017\Projects\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Alura.Loja.Testes.ConsoleApp.exe
+c:\users\caleum\documents\visual studio 2017\Projects\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Alura.Loja.Testes.ConsoleApp.pdb
+c:\users\caleum\documents\visual studio 2017\Projects\Alura.Loja\Alura.Loja.Testes.ConsoleApp\obj\Debug\Alura.Loja.Testes.ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\caleum\documents\visual studio 2017\Projects\Alura.Loja\Alura.Loja.Testes.ConsoleApp\obj\Debug\Alura.Loja.Testes.ConsoleApp.exe
+c:\users\caleum\documents\visual studio 2017\Projects\Alura.Loja\Alura.Loja.Testes.ConsoleApp\obj\Debug\Alura.Loja.Testes.ConsoleApp.pdb
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\obj\Debug\Alura.Loja.Testes.ConsoleApp.csproj.AssemblyReference.cache
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\obj\Debug\Alura.Loja.Testes.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\obj\Debug\Alura.Loja.Testes.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\obj\Debug\Alura.Loja.Testes.ConsoleApp.exe
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\obj\Debug\Alura.Loja.Testes.ConsoleApp.pdb
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Alura.Loja.Testes.ConsoleApp.exe.config
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Alura.Loja.Testes.ConsoleApp.exe
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Alura.Loja.Testes.ConsoleApp.pdb
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Remotion.Linq.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\System.Collections.Immutable.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\System.Interactive.Async.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\obj\Debug\Alura.Loja.Testes.ConsoleApp.csproj.CopyComplete
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\System.Text.Encodings.Web.dll
+D:\Dev_Semana OmniStack\FMX\Curso\C#-API\EntityFrameworkCore_Db\Alura.Loja\Alura.Loja.Testes.ConsoleApp\obj\Debug\Alura.Loja.Testes.ConsoleApp.exe.config
